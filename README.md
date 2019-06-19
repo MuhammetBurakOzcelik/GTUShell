@@ -7,5 +7,5 @@ Command List
   - lsf (ls)
   - pwd
   - wc
-  - '>'
+  - >
   - <
