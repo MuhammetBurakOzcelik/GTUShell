@@ -7,5 +7,4 @@ Command List
   - lsf (ls)
   - pwd
   - wc
-  - > (redirections)
-  - <
+  - </> (redirections)
