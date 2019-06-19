@@ -8,3 +8,6 @@ Command List
   - pwd
   - wc
   - </> (redirections)
+  
+  This program runs on Debian | Ubuntu . 
+  - [ ] wc redirection will be added. ( > )
