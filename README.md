@@ -2,7 +2,7 @@
 Some Shell Commands and Implementation on C
 
 Command List
-  - [x] help (man page)
+  - [x] help (Commands Info)
   - [x] du
   - [x] cat 
   - [x] lsf (ls)
